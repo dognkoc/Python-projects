@@ -11,4 +11,4 @@ You need to have Python installed on your computer in order to run this leap yea
 Python - The programming language used.
 
 ## Author
-Your Name
+Doğan KOÇ
